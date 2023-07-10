@@ -63,11 +63,45 @@ body{
     padding: 20px 0px;
 }
 .Banner-details{
-    text-align: center;
     height: 100vh;
 }
 .banner-info{
     display: flex;
     align-items: center;
     justify-content: space-around;
+    padding: 0px 80px;
+    gap: 20px;
 }
+.banner-img-1{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+}
+.banner-img-2{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+}
+.banner-img-3{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+}
+.banner-img-1 img{
+    padding: 74px 20px 0px 20px;
+}
+.banner-img-2 img{
+    padding: 49px 0px 84px 0px;
+}
+.banner-img-3 img{
+    padding: 30px 15px 0px 30px;
+}
+.banner-title{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    margin-top: 30px;
+}
+.banner-title a{
+    color: #272727;
+    font-size: 20px;
+    line-height: 30px;
+}
+
