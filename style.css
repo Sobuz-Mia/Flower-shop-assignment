@@ -177,3 +177,47 @@ span{
     gap: 20px;
     padding: 50px 100px;
 }
+
+/* card style ends */
+
+/* coupon section style start here */
+.coupon{
+    width: 53%;
+    margin: auto;
+    text-align: center;
+    padding: 100px 200px;
+    background-image: url('images/subcribe-bg.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+input{
+    border-radius: 8px;
+    background-color: #FFF;
+    border: none;
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 16px;
+    padding: 20px 200px 20px 20px ;
+}
+/* footer style start here */
+footer{
+    margin-top: 80px;
+    background-color:#111010;
+    padding: 100px 500px;
+}
+.footer-title{
+    color: #FFF;
+    font-size: 48px;
+}
+.footer-describtion{
+    color: rgba(255, 255, 255, 0.70);
+    line-height: 15px;
+    text-align: center;
+    font-size: 10px;
+    padding: 0px 15px;
+    margin: 20px 0px;
+}
+.copyright{
+    color: rgba(255, 255, 255,0.4);
+    padding: 5px;
+    width: 130%;
+}
