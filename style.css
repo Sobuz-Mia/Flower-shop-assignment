@@ -130,10 +130,6 @@ span{
 .contact-type img{
     padding: 20px;
 }
-.sales-describtion{
-    width: 50%;
-    margin: auto;
-}
 .contact-info{
     color: rgba(39, 39, 39, 0.80);
     text-align: center;
@@ -143,6 +139,12 @@ span{
 }
 /* contact style ends */
 
+/* sales start here */
+.sales-describtion{
+    width: 50%;
+    margin: auto;
+}
+
 .sales-info{
     display: flex;
     justify-content: space-around;
@@ -150,4 +152,15 @@ span{
     border-radius: 8px;
     background: rgba(229, 84, 115, 0.05);
     padding: 50px 100px;
+    margin-bottom: 80px;
 }
+
+/* sales style ends here */
+
+/* social info start here */
+.social-description{
+    text-align: center;
+    margin: 20px 0px;
+}
+
+/* social info ends here */
