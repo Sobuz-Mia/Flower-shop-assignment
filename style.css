@@ -180,6 +180,31 @@ span{
 
 /* card style ends */
 
+/* extra section style start here */
+    .welcome-section{
+        border-radius: 8px;
+        background-color:  rgba(229, 84, 115, 0.05);
+        width: 72%;
+        margin: auto;
+        margin-bottom: 50px;
+        padding: 40px 80px;
+    }
+    .social-link{
+        text-align: center;
+    }
+    .title{
+        margin: 10px 0px;
+    }
+    .social-link img{
+        margin-right: 15px;
+    }
+    .welcome-notes{
+        text-align: center;
+        opacity: 0.9;
+        margin: 20px 0px;
+    }
+/* extra section style start here */
+
 /* coupon section style start here */
 .coupon{
     width: 53%;
@@ -221,3 +246,4 @@ footer{
     padding: 5px;
     width: 130%;
 }
+/* Footer ends here */
