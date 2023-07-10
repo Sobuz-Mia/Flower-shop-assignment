@@ -164,3 +164,16 @@ span{
 }
 
 /* social info ends here */
+
+/* card style start */
+.card-section>div>img{
+    height: 250px;
+    width: 250px;
+}
+.card-section{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+    padding: 50px 100px;
+}
